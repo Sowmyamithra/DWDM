@@ -20,3 +20,9 @@
   12. K - NEAREST NEIGHBOUR ALGORITHM
   13. K - MEANS ALGORITHM
   14. BAYESIAN CLASSIFICATION
+  
+  
+ #### Language - JAVA
+ 
+ * Compile - javac filename.java
+ * Run - java filename
