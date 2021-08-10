@@ -1,7 +1,7 @@
 # DWDM
-## Data Warehousing And Data Mining
+Data Warehousing And Data Mining
 
-### List of Programs -
+#### List of Programs -
 
   1. DATA PREPROCESSING - DATA CLEANING
   2. DATA PREPROCESSING - DATA TRANSFORMATION
